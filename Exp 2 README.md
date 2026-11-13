@@ -14,3 +14,14 @@ To visualize data using Matplotlib and Seaborn libraries.
 6.  Plot salary distribution using `sns.boxplot()`.
 7.  Show the plots sequentially.
 8.  **Stop.**
+
+
+## Program
+
+
+## output
+
+
+## result
+
+
