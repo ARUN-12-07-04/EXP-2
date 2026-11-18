@@ -5,7 +5,6 @@
 To visualize data using Matplotlib and Seaborn libraries.
 
 ## Algorithm
-
 1.  **Start.**
 2.  Import the Matplotlib and Seaborn libraries.
 3.  Load data into a Pandas DataFrame.
