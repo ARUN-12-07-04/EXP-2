@@ -69,11 +69,15 @@ To visualize data using Matplotlib and Seaborn libraries.
     6  Praveen   32   40000
     7    Manoj   27   28000
     Histogram Output
-    <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/3a02f5f2-8c96-4014-be60-01f766d3d7d8" />
+<img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/3a02f5f2-8c96-4014-be60-01f766d3d7d8" />
+
     Scatter Plot Output
-    <img width="689" height="440" alt="image" src="https://github.com/user-attachments/assets/43c768c9-0abd-44a3-8783-19e038ed78cb" />
-    Box Plot Output
-    <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/cf20fd16-36c6-4539-8f61-fe3f76c980a5" />
+    
+ <img width="689" height="440" alt="image" src="https://github.com/user-attachments/assets/43c768c9-0abd-44a3-8783-19e038ed78cb" />
+ 
+     Box Plot Output
+    
+ <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/cf20fd16-36c6-4539-8f61-fe3f76c980a5" />
 
 ## result
 The three visualizations were successfully generated using Matplotlib and Seaborn libraries in Python.
