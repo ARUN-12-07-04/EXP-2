@@ -58,7 +58,7 @@ To visualize data using Matplotlib and Seaborn libraries.
     plt.ylabel('Salary')
     plt.show()
 
-    ## output
+ ## output
           Name  Age  Salary
     0     Arun   22   20000
     1    Kumar   25   25000
